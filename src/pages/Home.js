@@ -12,10 +12,18 @@ export default function Home() {
     </div>
  
   <h1 className="homename">Get started with Forex Today</h1>
-  <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis doloribus,
-  dignissimos in nisi temporibus quidem impedit eaque saepe, veritatis tenetur
-  magnam quas suscipit velit eveniet mollitia vel magni sit, ipsam iste obcaecati 
-  consequatur! Dolore laboriosam reiciendis amet eaque excepturi sint?</p>
+  <p>
+      Fx prime traders getting started
+
+Getting started with copying our trades is learning first the Basics of forex trading and the industry. There are different ways that you can participate in trading currencies in the global forex market, the first way is copy trading which closely resembles the mirror trading and social trading.By copying our trades,you will connect your margined forex account to our copy trading account and our Proffesionally generated buy and sell signals will be automatically be copied to your forex margined account, while you do nothing but managing the risks and portion of money that you are willing to risk for copying our trades. We use a combination of different intraday trading strategies in a perfect blend to generate our buy and sell signals. 
+Our proven and tested forex trading strategies have a win rate of 85% and a maximum Draw Down percentage of 13% a rate suitable for moderate risk appetite investors, that is sought by many copy trading gurus.It is important to note that we don't apply the risky martingale system in our trading strategy. 
+The most common and traditional way of trading  is trading manually, either through fundamental analysis or the chart analysis.Kindly we don't offer manual trading where forex traders Master the use of different forex trading tools and indicators to manually buy or sell currencies.Choose your  diligent forex Broker with low spreads and fee and one who is under a regulatory jurisdiction. Once you have chosen your broker open a demo account first to familiarize yourself with the risk management settings of your copy trading account. After mastering your risk management you can automatically copy our trades in 24 hours, even as you sleep your trades will be executed by our team.Let your forex account be a passive income investment,a money making machine!
+
+        
+        
+        
+        
+        </p>
 
  </div>
 
@@ -62,10 +70,13 @@ export default function Home() {
    </div>
    <div className="footersec"> 
             <p className="footerinfo">
-Disclaimer: Forex has large potential rewards, but also large potential risk. You must be aware of the risks and be willing to accept them in order to invest in the stock, binary options or futures markets. Don’t trade with money you can’t afford to lose especially with leveraged instruments such as binary options trading, futures trading or forex trading. This website is neither a solicitation nor an offer to Buy/Sell stocks, futures or options. No representation is being made that any account will or is likely to achieve profits or losses similar to those discussed on this website. The past performance of any trading system or methodology is not necessarily indicative of future results. You could lose all of your money fast due too: poor market trading conditions, mechanical error, emotional induced errors, news surprises and earnings releases.
-All information on this website and the software is for educational purposes only and is not intended to provide financial advice. Any statements about profits or income, expressed or implied, does not represent a guarantee. Your actual trading may result in losses as no trading system is guaranteed. You accept full responsibilities for your actions, trades, profit or loss, and agree to hold the forexdini.com team and any authorized distributors of this information harmless in any and all ways.
-The owners of the website and the website hereby waive any liability whatsoever due to the use of the website and/or information. Use of the website, the content, the products/software and the information is made on the your sole liability. You hereby releases the owners of the website from any liability for damage caused to his computer, in any, through the use of the website and/or its content and/or its various services and products. The user hereby releases the owners of the website, the website, their partners, agents, employees, officers, managers, directors, shareholders, etc. from any liability for losses and/or financial damages and/or personal bodily damages and/or fraud, caused through the use of the website.
-            </p>
+        
+          Fx Prime traders Disclaimer
+Investing in foreign currencies can results to either  a loss or good profits for investors.So  you should first deligently  consider your investment objectives, level of experience in investing or trading and risk appetite before you choose to invest or trade in  the Forex market. It is also worth noting that you should not invest the money you cannot afford to lose.Foreign exchange transactions are exposed to a considerable risks such as,the changing political and/or economic environment that may critically affect the price or liquidity of a currency.The relevant market values of the forex market fluctuate and in the process this may result to  sharp rises and falls for speculators. Forex trading involves leveraging, this means that any market movement will have an equally proportional effect on your margined account. This may work in your favor or against you. Investors  should be aware of all the risks associated with foreign exchange trading, and seek advice from an independent financial advisor for clarification of  any doubts. 
+Forex Trading  is a risky speculative investment you should educate yourself carefully about the available profitable opportunities  and risks involved before making any  investment decisions.It is important to note that historical performance of a currency trading system or Forex trading strategy cannot be indicative of future results.Note that various forex trading strategies and systems published  on this website may have been acquired from online research based on other websites for educational purposes only.Test the different trading strategies and systems at your own risk.No information or opinion published on this website should be considered as a solicitation or offer to buy or sell any currency, equity ,futures or other financial instruments or services or commodities. Opinions published on this website are those of the individual publishers and do not necessarily represent the opinion of Fx prime traders or its management. Fx prime traders  has not verified the  basis-in-fact or accuracy  of any claim or statement made by any website publisher. And shall not accept any liability for any loss or damage, including without limitation to, any loss of profit, which may arise directly or indirectly from use of or reliance on information published on this website. 
+
+         
+ </p>
             <footer>
            <p>FXBiz &copy; 2020</p>
        </footer>
